@@ -1,4 +1,4 @@
-pollutantmean <- function (directory, pollutant, id = 1:332)
+pollutantmeans <- function (directory, pollutant, id = 1:332)
 {
      dframe <- data.frame()
      
